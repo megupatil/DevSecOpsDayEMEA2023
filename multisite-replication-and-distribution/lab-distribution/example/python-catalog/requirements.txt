@@ -1,5 +1,5 @@
-PyYAML==5.2
+PyYAML==5.4
 nltk
 numpy
-pymongo==3.3.0
-django==3.2.20
+pymongo==4.18.2
+django==5.2.17
